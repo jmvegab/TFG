@@ -1,0 +1,26 @@
+
+{
+	"write_api_key": "1KHHGKOUKP0A9E7J",
+	"updates": [
+		{
+			"created_at": "2024-05-24T10:26:20Z",
+			"field1": 10.0,
+			"field2": 2.0,
+            "field3": 3.0,
+			"latitude": 52.3731,
+			"longitude": 4.8922,
+			"elevation": "15",
+			"status": "OK"
+		},
+		{
+			"created_at": "2024-05-24T10:30:20Z",
+			"field1": 1.1,
+			"field2": 2.2,
+            "field3": 3.3,
+			"latitude": 52.3741,
+			"longitude": 4.8932,
+			"elevation": "16",
+			"status": "well done"
+		}
+	]
+}
